@@ -1,0 +1,1 @@
+This visualizer uses libraries like Three.js, react-three-fiber, Tween.js, Tensorflow JS to visualize some common pathfinding and machine learning algorithms in 3D. Dijkstra’s algorithm, A* Search algorithm, BFS and DFS,etc can be visualized.
